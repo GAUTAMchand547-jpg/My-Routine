@@ -1,5 +1,5 @@
 
-name: Build Habit Protocol APK
+name: My Fitness Tracker
 
 on:
   workflow_dispatch:
